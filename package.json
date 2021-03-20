@@ -2,7 +2,7 @@
     "name": "glee-casper",
     "description": "Custom theme based off of casper",
     "demo": "https://demo.ghost.io",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
